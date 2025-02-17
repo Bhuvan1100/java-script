@@ -48,5 +48,9 @@ arrays, objects, function
 // //symbol ka datatype symbol 
 
 
+//**************************************** *//
+
+// lecture 10 notes in copy
+
 
 
